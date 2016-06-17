@@ -1,0 +1,48 @@
+﻿已經開始建置於 2016/5/3 下午 11:51:50。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Alen\Desktop\Project1\Project1\Project1.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Messaging.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp main.cpp
+         MyForm.cpp
+     1>c:\users\alen\desktop\project1\project1\MyForm.h(48): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>c:\users\alen\desktop\project1\project1\MyForm.h(53): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(145): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(146): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(345): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(350): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(354): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(366): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(371): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(375): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(386): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(388): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(397): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(407): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(409): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(418): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(494): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(499): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(503): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(515): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(520): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(524): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(535): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(537): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(546): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(556): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(558): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>MyForm.cpp(567): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+         main.cpp
+     1>c:\users\alen\desktop\project1\project1\MyForm.h(48): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>c:\users\alen\desktop\project1\project1\MyForm.h(53): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>main.cpp(7): warning C4829: 函式 main 的參數可能不正確。請考慮 'int main(Platform::Array<Platform::String^>^ argv)'
+         正在產生程式碼...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alen\Desktop\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Project1.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Alen\Desktop\Project1\Debug\Project1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\main.obj
+         Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.5.1.AssemblyAttributes.obj"
+         Project1.vcxproj -> C:\Users\Alen\Desktop\Project1\Debug\Project1.exe
+     1>專案 "C:\Users\Alen\Desktop\Project1\Project1\Project1.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.30
